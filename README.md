@@ -9,7 +9,7 @@ This is a modern web application developed using **Next.js** and **Tailwind CSS*
 
 ## 📸 Screenshot
 
-![Hyperhire Website Screenshot](https://hyperhire-hafid.vercel.app/screenshot.png)
+![Hyperhire Website Screenshot]([https://hyperhire-hafid.vercel.app/screenshot.png](https://github.com/hafidrf/hyperhire-hafid/blob/main/screenshot.png))
 
 > Make sure to replace the URL or upload an actual screenshot if it is hosted elsewhere.
 
